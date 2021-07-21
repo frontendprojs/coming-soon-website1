@@ -1,0 +1,144 @@
+.right {
+    float: right;
+    height: 100%;
+    margin-left: 300px;
+    margin-top: -10px;
+    margin-bottom: -15px;
+}
+
+.left {
+
+    margin-left: 120px;
+    margin-top: 70px;
+}
+
+.head1 {
+    font-weight: 100;
+    font-family:sans-serif;
+    letter-spacing: 15px;
+    color: rgb(228, 165, 175);
+    font-size:45px;
+}
+.head2 {
+    font-family:sans-serif;
+    letter-spacing: 15px;
+    color:rgb(65, 33, 33);
+    font-size:45px;
+    margin-top: -15px;
+}
+.head3 {
+    font-family:sans-serif;
+    letter-spacing: 15px;
+    color:rgb(65, 33, 33);
+    font-size:45px;
+    margin-top: -15px;
+}
+
+.par {
+    color:rgb(228, 165, 175);
+    font-family: Arial, Helvetica, sans-serif;
+    word-spacing: 5px;
+    line-height: 26px;
+    margin-top: 40px;
+}
+
+.email {
+    width: 455px;
+    height: 40px;
+    border: 1px solid rgb(228, 165, 175);
+    border-radius: 30px;
+    box-sizing: border-box;
+    padding: 20px;
+}
+
+.bi-chevron-right {
+    width:65px;
+    height: 30px;
+    color: white;
+}
+.btn {
+    width: 75px;
+    height: 40px;
+    background-color: rgb(231, 148, 162);
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+    opacity: 0.8;
+}
+.btn:hover {
+    opacity: 1;
+}
+
+.btn-main {
+    margin-left: 380px;
+    margin-top: -41px;
+}
+
+.text {
+    margin-top: 130px;
+}
+
+.input-email {
+    margin-top: 50px;
+}
+
+input:focus, textarea:focus, select:focus {
+    outline: none;
+}
+
+small {
+    margin-left: 160px;
+}
+
+.red {
+    color: red;
+    margin-left: 160px;
+}
+
+.bordererror {
+    border: 1px solid red;
+    width: 455px;
+    height: 40px;
+    border-radius: 30px;
+    box-sizing: border-box;
+    padding: 20px;
+}
+.nobordererror {
+    width: 455px;
+    height: 40px;
+    border: 1px solid rgb(228, 165, 175);;
+    border-radius: 30px;
+    box-sizing: border-box;
+    padding: 20px;
+}
+
+.error {
+    border: 1px solid red;
+    width: 455px;
+    height: 40px;
+    border-radius: 30px;
+    box-sizing: border-box;
+    padding: 20px;
+}
+
+.noerror {
+    width: 455px;
+    height: 40px;
+    border: 1px solid rgb(228, 165, 175);
+    border-radius: 30px;
+    box-sizing: border-box;
+    padding: 20px;
+}
+
+.img {
+    width: 100%;
+}
+
+.container-fluid {
+    float: right;
+    margin-right: -2px;
+}
+
+#message {
+    margin-right: 30px !important;
+}

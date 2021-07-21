@@ -1,0 +1,6 @@
+- so basically this website is an example of coming soon website, written in html, css, javascript.
+- you can see that there is a input element where you should type your email address.
+- so if the email is wrong or invalid, then you'll get the error message in red as in <p> element with red border on input box
+- if the email address passed the regex test then you'll get an alert message saying 'you are connected, Thank you!'
+- also after success email format, the email value will be deleted from the input element box!
+- used bootsrap framework for responsive and media queries stuffs!
